@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="Z:/Desktop/XiseProjectFinal/TopPipelinedTB_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="toppipelinedtb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="22" />
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/inx" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inx[31:0]</obj_property>
+      <obj_property name="ObjectShortName">inx[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/iny" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">iny[31:0]</obj_property>
+      <obj_property name="ObjectShortName">iny[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/op" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">op</obj_property>
+      <obj_property name="ObjectShortName">op</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/ssign" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ssign</obj_property>
+      <obj_property name="ObjectShortName">ssign</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/gsign" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">gsign</obj_property>
+      <obj_property name="ObjectShortName">gsign</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/gexp" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gexp[7:0]</obj_property>
+      <obj_property name="ObjectShortName">gexp[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/gmante" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gmante[26:0]</obj_property>
+      <obj_property name="ObjectShortName">gmante[26:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/smante" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">smante[26:0]</obj_property>
+      <obj_property name="ObjectShortName">smante[26:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/sresult" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sresult[31:0]</obj_property>
+      <obj_property name="ObjectShortName">sresult[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/isspecr" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">isspecr</obj_property>
+      <obj_property name="ObjectShortName">isspecr</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/swapgnum_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">swapgnum_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">swapgnum_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/swapsnum_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">swapsnum_out[31:0]</obj_property>
+      <obj_property name="ObjectShortName">swapsnum_out[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/swapediff_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">swapediff_out[4:0]</obj_property>
+      <obj_property name="ObjectShortName">swapediff_out[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/swapfm2zero_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">swapfm2zero_out</obj_property>
+      <obj_property name="ObjectShortName">swapfm2zero_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/swapswapped_out" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">swapswapped_out</obj_property>
+      <obj_property name="ObjectShortName">swapswapped_out</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/smext_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">smext_out[26:0]</obj_property>
+      <obj_property name="ObjectShortName">smext_out[26:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/gmext_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">gmext_out[26:0]</obj_property>
+      <obj_property name="ObjectShortName">gmext_out[26:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/sccasox_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sccasox_out[4:0]</obj_property>
+      <obj_property name="ObjectShortName">sccasox_out[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/sccasoy_out" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">sccasoy_out[4:0]</obj_property>
+      <obj_property name="ObjectShortName">sccasoy_out[4:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/isgsubnormal" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">isgsubnormal</obj_property>
+      <obj_property name="ObjectShortName">isgsubnormal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/isssubnormal" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">isssubnormal</obj_property>
+      <obj_property name="ObjectShortName">isssubnormal</obj_property>
+   </wvobject>
+   <wvobject fp_name="/toppipelinedtb/uut/A_PreSum/bxorop" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">bxorop[31:0]</obj_property>
+      <obj_property name="ObjectShortName">bxorop[31:0]</obj_property>
+   </wvobject>
+</wave_config>
