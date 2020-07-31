@@ -15,6 +15,6 @@ Repository of the project developed for the "Final project in Digital Logic Desi
 ## Group
 | First name | Last Name | GitHub |
 | ---------- | --------- | ------ |
-| Kevin | Guglietmetti |  |
+| Kevin | Guglietmetti |https://github.com/kevinGuglielmetti  |
 | Rafael Francesco | Mosca Aguilar | https://github.com/rfma23  |
 
